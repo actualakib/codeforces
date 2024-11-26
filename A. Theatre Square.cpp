@@ -1,4 +1,4 @@
-https://codeforces.com/contest/1/problem/A
+//https://codeforces.com/contest/1/problem/A
 
 #include <stdio.h>
 
